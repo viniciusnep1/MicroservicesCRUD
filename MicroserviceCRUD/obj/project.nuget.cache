@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JR3oDfbePO5SNRMscGIsE8cU+ISf3ntcaHLqA8B3s9yzYd6lG9pUmGbbLNLQOjWqiosSDYta2JzmXoedkI/UnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vinicius Barbosa\\Documents\\Projetos\\MicroservicesCRUD\\MicroserviceCRUD\\MicroserviceCRUD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinicius Barbosa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
