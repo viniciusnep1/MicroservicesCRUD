@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "parYeq8aBnh7/6prw+DUDGrIQcJcvnVGqAv9VkIdO2UiV1QrglVAJDigr2nZBp8g1flTFxZrV5agdSw7C6zCvg==",
+  "dgSpecHash": "SwdtBPk/TmmVPGOS6wpGRxwCame9Td0skIkCRi8TD1WipFQtS153Z8OsvB0H5LIu+9/8z+eozULg8/UxZQ/Q5Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Vinicius Barbosa\\Documents\\Projetos\\MicroservicesCRUD\\core\\core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Vinicius Barbosa\\.nuget\\packages\\autofac\\5.1.4\\autofac.5.1.4.nupkg.sha512",
+    "C:\\Users\\Vinicius Barbosa\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\Vinicius Barbosa\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Vinicius Barbosa\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\Vinicius Barbosa\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.3\\microsoft.entityframeworkcore.3.1.3.nupkg.sha512",

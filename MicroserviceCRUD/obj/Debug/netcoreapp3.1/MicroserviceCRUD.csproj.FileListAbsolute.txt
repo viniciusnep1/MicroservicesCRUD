@@ -67,8 +67,6 @@ C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\MicroserviceCRUD\
 C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\MicroserviceCRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
 C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\MicroserviceCRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\MicroserviceCRUD\obj\Debug\netcoreapp3.1\MicroserviceCRUD.csprojAssemblyReference.cache
-C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\MicroserviceCRUD\obj\Debug\netcoreapp3.1\MicroserviceCRUD.csproj.CoreCompileInputs.cache
-C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\MicroserviceCRUD\obj\Debug\netcoreapp3.1\MicroserviceCRUD.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\MicroserviceCRUD\obj\Debug\netcoreapp3.1\MicroserviceCRUD.AssemblyInfoInputs.cache
 C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\MicroserviceCRUD\obj\Debug\netcoreapp3.1\MicroserviceCRUD.AssemblyInfo.cs
 C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\MicroserviceCRUD\obj\Debug\netcoreapp3.1\MicroserviceCRUD.RazorTargetAssemblyInfo.cache
@@ -88,3 +86,7 @@ C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\MicroserviceCRUD\
 C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\MicroserviceCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
 C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\MicroserviceCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\MicroserviceCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\MicroserviceCRUD\bin\Debug\netcoreapp3.1\services.exe
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\MicroserviceCRUD\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\MicroserviceCRUD\bin\Debug\netcoreapp3.1\services.dll
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\MicroserviceCRUD\bin\Debug\netcoreapp3.1\services.pdb

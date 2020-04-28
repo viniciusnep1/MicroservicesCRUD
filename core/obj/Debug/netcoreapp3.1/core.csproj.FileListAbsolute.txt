@@ -19,10 +19,12 @@ C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\core\bin\Debug\ne
 C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\core\obj\Debug\netcoreapp3.1\core.csproj.CoreCompileInputs.cache
 C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\core\obj\Debug\netcoreapp3.1\core.AssemblyInfoInputs.cache
 C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\core\obj\Debug\netcoreapp3.1\core.AssemblyInfo.cs
 C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\core\obj\Debug\netcoreapp3.1\core.csproj.CopyComplete
 C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\core\obj\Debug\netcoreapp3.1\core.dll
 C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\core\obj\Debug\netcoreapp3.1\core.pdb
 C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\core\obj\Debug\netcoreapp3.1\core.genruntimeconfig.cache
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\core\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\core\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\core\obj\Debug\netcoreapp3.1\core.csprojAssemblyReference.cache

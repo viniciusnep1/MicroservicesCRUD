@@ -33,4 +33,5 @@ C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\entities\obj\Debu
 C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\entities\obj\Debug\netcoreapp3.1\entities.genruntimeconfig.cache
 C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\entities\bin\Debug\netcoreapp3.1\Npgsql.dll
 C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\entities\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\entities\obj\Debug\netcoreapp3.1\entities.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\entities\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\entities\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll

@@ -16,6 +16,28 @@
           "lib/netstandard2.0/AspNetCore.HealthChecks.dll": {}
         }
       },
+      "Autofac/5.1.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/Autofac.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Autofac.dll": {}
+        }
+      },
+      "Autofac.Extensions.DependencyInjection/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Autofac": "5.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.1.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/Autofac.Extensions.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Autofac.Extensions.DependencyInjection.dll": {}
+        }
+      },
       "Extensions.HealthChecks/1.0.0": {
         "type": "package",
         "dependencies": {
@@ -937,7 +959,7 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/11.0.2": {
+      "Newtonsoft.Json/12.0.3": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
@@ -2718,6 +2740,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "Autofac": "5.1.4",
+          "Autofac.Extensions.DependencyInjection": "6.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.3"
         },
         "compile": {
@@ -2731,6 +2755,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "Autofac": "5.1.4",
+          "Autofac.Extensions.DependencyInjection": "6.0.0",
           "Microsoft.EntityFrameworkCore.Relational": "3.1.3",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "3.1.3",
           "core": "1.0.0"
@@ -2740,6 +2766,21 @@
         },
         "runtime": {
           "bin/placeholder/entities.dll": {}
+        }
+      },
+      "services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Autofac": "5.1.4",
+          "Autofac.Extensions.DependencyInjection": "6.0.0",
+          "entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/services.dll": {}
         }
       }
     }
@@ -2755,6 +2796,44 @@
         "aspnetcore.healthchecks.1.0.0.nupkg.sha512",
         "aspnetcore.healthchecks.nuspec",
         "lib/netstandard2.0/AspNetCore.HealthChecks.dll"
+      ]
+    },
+    "Autofac/5.1.4": {
+      "sha512": "MsAEZJNCBTwZ21cBaFosWvR+zNG3VXB8y8qn3HmYl6m9iR/CDqDQykqBzfApbqj3N1l2I4qVBPA2exIdHJvANQ==",
+      "type": "package",
+      "path": "autofac/5.1.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "autofac.5.1.4.nupkg.sha512",
+        "autofac.nuspec",
+        "icon.png",
+        "lib/net461/Autofac.dll",
+        "lib/net461/Autofac.pdb",
+        "lib/net461/Autofac.xml",
+        "lib/netstandard2.0/Autofac.dll",
+        "lib/netstandard2.0/Autofac.pdb",
+        "lib/netstandard2.0/Autofac.xml",
+        "lib/netstandard2.1/Autofac.dll",
+        "lib/netstandard2.1/Autofac.pdb",
+        "lib/netstandard2.1/Autofac.xml"
+      ]
+    },
+    "Autofac.Extensions.DependencyInjection/6.0.0": {
+      "sha512": "+1WNYENm4s/bSBrmTy2sD0zs6MCiCAlUaEbHJ+y7fKpXKqnFl4oTkIkUoDKlp05dl1VoAASBUJocaKKJa1KPCw==",
+      "type": "package",
+      "path": "autofac.extensions.dependencyinjection/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+        "autofac.extensions.dependencyinjection.nuspec",
+        "lib/netstandard2.0/Autofac.Extensions.DependencyInjection.dll",
+        "lib/netstandard2.0/Autofac.Extensions.DependencyInjection.pdb",
+        "lib/netstandard2.0/Autofac.Extensions.DependencyInjection.xml",
+        "lib/netstandard2.1/Autofac.Extensions.DependencyInjection.dll",
+        "lib/netstandard2.1/Autofac.Extensions.DependencyInjection.pdb",
+        "lib/netstandard2.1/Autofac.Extensions.DependencyInjection.xml"
       ]
     },
     "Extensions.HealthChecks/1.0.0": {
@@ -4001,10 +4080,10 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Newtonsoft.Json/11.0.2": {
-      "sha512": "IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
       "type": "package",
-      "path": "newtonsoft.json/11.0.2",
+      "path": "newtonsoft.json/12.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4027,8 +4106,9 @@
         "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
         "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
         "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
-        "newtonsoft.json.11.0.2.nupkg.sha512",
-        "newtonsoft.json.nuspec"
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
       ]
     },
     "Npgsql/4.1.3.1": {
@@ -8675,11 +8755,18 @@
       "type": "project",
       "path": "../entities/entities.csproj",
       "msbuildProject": "../entities/entities.csproj"
+    },
+    "services/1.0.0": {
+      "type": "project",
+      "path": "../services/services.csproj",
+      "msbuildProject": "../services/services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "AspNetCore.HealthChecks >= 1.0.0",
+      "Autofac >= 5.1.4",
+      "Autofac.Extensions.DependencyInjection >= 6.0.0",
       "Google.Protobuf >= 3.11.4",
       "Grpc.AspNetCore.Server >= 2.28.0",
       "Grpc.Tools >= 2.28.1",
@@ -8692,11 +8779,13 @@
       "Microsoft.Extensions.Logging.Console >= 3.1.3",
       "Microsoft.Extensions.Logging.Debug >= 3.1.3",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.10.8",
+      "Newtonsoft.Json >= 12.0.3",
       "Npgsql >= 4.1.3.1",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 3.1.3",
       "Serilog.AspNetCore >= 3.2.0",
       "System.Configuration.ConfigurationManager >= 4.7.0",
-      "entities >= 1.0.0"
+      "entities >= 1.0.0",
+      "services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -8732,6 +8821,9 @@
           "projectReferences": {
             "C:\\Users\\Vinicius Barbosa\\Documents\\Projetos\\MicroservicesCRUD\\entities\\entities.csproj": {
               "projectPath": "C:\\Users\\Vinicius Barbosa\\Documents\\Projetos\\MicroservicesCRUD\\entities\\entities.csproj"
+            },
+            "C:\\Users\\Vinicius Barbosa\\Documents\\Projetos\\MicroservicesCRUD\\services\\services.csproj": {
+              "projectPath": "C:\\Users\\Vinicius Barbosa\\Documents\\Projetos\\MicroservicesCRUD\\services\\services.csproj"
             }
           }
         }
@@ -8748,6 +8840,14 @@
           "AspNetCore.HealthChecks": {
             "target": "Package",
             "version": "[1.0.0, )"
+          },
+          "Autofac": {
+            "target": "Package",
+            "version": "[5.1.4, )"
+          },
+          "Autofac.Extensions.DependencyInjection": {
+            "target": "Package",
+            "version": "[6.0.0, )"
           },
           "Google.Protobuf": {
             "target": "Package",
@@ -8800,6 +8900,10 @@
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
             "target": "Package",
             "version": "[1.10.8, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[12.0.3, )"
           },
           "Npgsql": {
             "target": "Package",

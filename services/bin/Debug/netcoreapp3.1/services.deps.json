@@ -8,10 +8,19 @@
     ".NETCoreApp,Version=v3.1": {
       "services/1.0.0": {
         "dependencies": {
+          "Autofac": "5.1.4",
           "entities": "1.0.0"
         },
         "runtime": {
           "services.dll": {}
+        }
+      },
+      "Autofac/5.1.4": {
+        "runtime": {
+          "lib/netstandard2.1/Autofac.dll": {
+            "assemblyVersion": "5.1.4.0",
+            "fileVersion": "5.1.4.0"
+          }
         }
       },
       "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
@@ -243,6 +252,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Autofac/5.1.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MsAEZJNCBTwZ21cBaFosWvR+zNG3VXB8y8qn3HmYl6m9iR/CDqDQykqBzfApbqj3N1l2I4qVBPA2exIdHJvANQ==",
+      "path": "autofac/5.1.4",
+      "hashPath": "autofac.5.1.4.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
       "type": "package",
