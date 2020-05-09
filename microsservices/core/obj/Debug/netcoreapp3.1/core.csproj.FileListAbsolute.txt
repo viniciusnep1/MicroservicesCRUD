@@ -1,0 +1,9 @@
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\microsservices\core\bin\Debug\netcoreapp3.1\core.deps.json
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\microsservices\core\bin\Debug\netcoreapp3.1\core.dll
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\microsservices\core\obj\Debug\netcoreapp3.1\core.AssemblyInfoInputs.cache
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\microsservices\core\obj\Debug\netcoreapp3.1\core.AssemblyInfo.cs
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\microsservices\core\bin\Debug\netcoreapp3.1\core.pdb
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\microsservices\core\obj\Debug\netcoreapp3.1\core.dll
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\microsservices\core\obj\Debug\netcoreapp3.1\core.pdb
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\microsservices\core\obj\Debug\netcoreapp3.1\core.csprojAssemblyReference.cache
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\microsservices\core\obj\Debug\netcoreapp3.1\core.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\microsservices\domain\bin\Debug\netcoreapp3.1\entities.deps.json
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\microsservices\domain\bin\Debug\netcoreapp3.1\entities.dll
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\microsservices\domain\bin\Debug\netcoreapp3.1\entities.pdb
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\microsservices\domain\obj\Debug\netcoreapp3.1\entities.AssemblyInfoInputs.cache
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\microsservices\domain\obj\Debug\netcoreapp3.1\entities.AssemblyInfo.cs
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\microsservices\domain\obj\Debug\netcoreapp3.1\entities.dll
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\microsservices\domain\obj\Debug\netcoreapp3.1\entities.pdb
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\microsservices\domain\obj\Debug\netcoreapp3.1\entities.csprojAssemblyReference.cache
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\microsservices\domain\bin\Debug\netcoreapp3.1\core.dll
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\microsservices\domain\bin\Debug\netcoreapp3.1\core.pdb
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\microsservices\domain\obj\Debug\netcoreapp3.1\entities.csproj.CopyComplete
+C:\Users\Vinicius Barbosa\Documents\Projetos\MicroservicesCRUD\microsservices\domain\obj\Debug\netcoreapp3.1\entities.csproj.CoreCompileInputs.cache
